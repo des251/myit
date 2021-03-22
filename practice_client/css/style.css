@@ -1,0 +1,8 @@
+.reveal * {
+  display: none;
+  cursor: pointer;
+}
+.reveal *.handle {
+  display: block;
+  cursor: pointer;
+}
